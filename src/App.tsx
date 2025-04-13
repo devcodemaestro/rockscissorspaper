@@ -83,8 +83,8 @@ function App() {
   };
 
   return (
-    <div className="max-w-full bg-gray-100 min-h-screen flex items-center justify-center">
-      <div className="flex flex-col items-center justify-between max-w-md gap-3 p-4 h-screen py-8">
+    <div className="max-w-full bg-gray-100 min-h-dvh  flex items-center justify-center">
+      <div className="flex flex-col items-center justify-between max-w-md gap-3 p-4 h-dvh py-8">
         <header className="text-3xl font-bold flex items-center justify-center w-full mb-4">
           가위바위보 게임
         </header>
